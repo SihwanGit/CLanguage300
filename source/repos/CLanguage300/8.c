@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int hap(int value);
+int hap(int value); //전방선언
 
 int main() {
 	printf("1부터 10까지의 합 : %d\n", hap(10));
