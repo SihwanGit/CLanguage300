@@ -57,5 +57,11 @@
     <ClCompile Include="code11to20\12.c">
       <Filter>소스 파일\code11to20</Filter>
     </ClCompile>
+    <ClCompile Include="code11to20\13.c">
+      <Filter>소스 파일\code11to20</Filter>
+    </ClCompile>
+    <ClCompile Include="code11to20\14.c">
+      <Filter>소스 파일\code11to20</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
