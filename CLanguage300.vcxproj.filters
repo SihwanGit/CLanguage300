@@ -17,7 +17,7 @@
       <UniqueIdentifier>{1e74605d-8e1b-411e-96c6-13a298e578cb}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\code11to20">
-      <UniqueIdentifier>{3a6eef25-974c-43d9-b954-f85d95656a99}</UniqueIdentifier>
+      <UniqueIdentifier>{470b6be8-9136-4c81-8d0d-104106a14ba5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -51,7 +51,10 @@
     <ClCompile Include="code1to10\10.c">
       <Filter>소스 파일\code1to10</Filter>
     </ClCompile>
-    <ClCompile Include="11.c">
+    <ClCompile Include="code11to20\11.c">
+      <Filter>소스 파일\code11to20</Filter>
+    </ClCompile>
+    <ClCompile Include="code11to20\12.c">
       <Filter>소스 파일\code11to20</Filter>
     </ClCompile>
   </ItemGroup>
