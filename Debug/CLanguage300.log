@@ -1,0 +1,3 @@
+﻿  11.c
+C:\Users\SAMSUNG\source\repos\CLanguage300\11.c(9,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+  CLanguage300.vcxproj -> C:\Users\SAMSUNG\source\repos\CLanguage300\Debug\CLanguage300.exe
