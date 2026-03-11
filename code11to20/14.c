@@ -23,5 +23,9 @@ int main() {
 	else printf("3은 거짓입니다.\n");
 
 
+	//C언어는 0은 false, 그 외의 값들은 전부 true로 판정한다.
+	//C++에는 bool타입 변수가 있지만 C에는 없다.
+
+
 	return 0;
 }
