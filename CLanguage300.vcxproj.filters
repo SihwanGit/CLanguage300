@@ -99,5 +99,14 @@
     <ClCompile Include="code21to30\25.c">
       <Filter>소스 파일\code21to30</Filter>
     </ClCompile>
+    <ClCompile Include="code21to30\26.c">
+      <Filter>소스 파일\code21to30</Filter>
+    </ClCompile>
+    <ClCompile Include="code21to30\27.c">
+      <Filter>소스 파일\code21to30</Filter>
+    </ClCompile>
+    <ClCompile Include="code21to30\28.c">
+      <Filter>소스 파일\code21to30</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
